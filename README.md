@@ -3,7 +3,6 @@
 An app that enables the user to list his daily activities, mark them as achieved, and delete them.<br />
 
 **Technologies used in this app:**<br />
-- NodeJs.
 - ReactJs.
 - Material-UI.
 
